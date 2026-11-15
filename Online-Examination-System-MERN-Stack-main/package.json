@@ -1,0 +1,9 @@
+{
+  "name": "online-examination-system",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "powershell -ExecutionPolicy Bypass -File .\\run-project.ps1 -CompleteTestsWithResults",
+    "dev": "powershell -ExecutionPolicy Bypass -File .\\run-project.ps1 -CompleteTestsWithResults"
+  }
+}

@@ -1,0 +1,15 @@
+{
+    "mongodb": {
+        "connectionString": "mongodb://localhost:27017/OnlineExaminationSystem"
+    },
+    "jwt": {
+        "secret" : "Examination Portal Application"
+    },
+    "app": {
+        "frontendUrl": "https://online-examination-frontend-one.vercel.app"
+    },
+    "mail-credentials" : {
+        "userid" :"deekshithar66@gmail.com",
+        "password" :"piew qqip hxmr mpdo"
+    }
+}
