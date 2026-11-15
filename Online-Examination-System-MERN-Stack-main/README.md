@@ -1,3 +1,7 @@
+# Backend : https://online-examination-system-backend-hstx.onrender.com
+
+# Frontend : https://online-examination-system-fzh0.onrender.com
+
 # TOPIC:- Online Examination Application (Using MERN Stack)
 
 **The Online Examination Application is a comprehensive web-based platform designed to facilitate the seamless administration, delivery, and management of online exams.**
