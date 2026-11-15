@@ -1,5 +1,5 @@
 const currentOrigin = typeof window !== 'undefined' && window.location ? window.location.origin : '';
-const apiBase = process.env.REACT_APP_API_BASE || 'https://online-examination-backend.vercel.app';
+const apiBase = process.env.REACT_APP_API_BASE || 'https://online-examination-system-backend-hstx.onrender.com';
 /*const apis={
     BASE_LOCAL_URL:'http://localhost:3000',
     BASE : "http://localhost:5000",
