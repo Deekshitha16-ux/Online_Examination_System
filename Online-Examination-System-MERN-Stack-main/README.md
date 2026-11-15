@@ -165,5 +165,3 @@
 - **Database:** All The Important Credentials and Data of the users are stored in a secured database with proper Password Hashing Methods to help prevent UnAuthorised person from getting access to any passwords.
 
 # Feedback Regarding This Project 😇
-
-## If you have any feedback or Query Related To This Project, Please reach out to Me at mailto:royp13247@gmail.com
